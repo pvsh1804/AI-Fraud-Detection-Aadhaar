@@ -20,36 +20,6 @@
 
 **AadhaarAuth System** is a comprehensive AI-powered document verification platform designed to detect fraudulent Aadhaar cards and ensure authentic identity verification. The system combines **Google Gemini 2.0 Flash** for intelligent OCR and document analysis with **YOLOv8** deep learning models for advanced fraud detection, along with computer vision techniques to identify document tampering, photo overlays, and text alterations.
 
----
-
-## Screenshots
-
-### Dashboard
-The main dashboard provides real-time statistics, document upload functionality, and quick access to all features.
-
-![Dashboard](assets/dashboard.png)
-
-### Document Analysis
-Detailed analysis view showing extracted Aadhaar information, fraud detection results, and verification status.
-
-![Document Analysis](assets/analyzed_page.png)
-
-### Verification Results
-Comprehensive verification results page with accept/reject status, fraud indicators, and export capabilities.
-
-![Verification Results](assets/verification_page.png)
-
-### Documentation
-Built-in documentation page for API reference and usage guidelines.
-
-![Documentation](assets/documentation.png)
-
-### Developer
-Project developed by Kumar Manglam.
-
-![Author](assets/author.png)
-
----
 
 ## Key Features
 

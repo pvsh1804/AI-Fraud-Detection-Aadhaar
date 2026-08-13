@@ -385,7 +385,7 @@ npm install
 
 <div align="center">
 
-**Kumar Manglam**
+**Prakhar Vishwakarma**
 
 A passionate developer dedicated to building innovative solutions that make a real difference in people's lives.
 
